@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/fragment_main_home"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:orientation="vertical" >
+   
+    
+    <Button android:id="@+id/mapbutton"
+        android:layout_width="match_parent"
+  		android:layout_height="match_parent"
+        android:text="Map"
+        />
+    
+    <Button android:id="@+id/inventorybutton"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Inventory"
+        />
+    
+    <Button android:id="@+id/settingsbutton"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Settings"
+        />
+</LinearLayout>
