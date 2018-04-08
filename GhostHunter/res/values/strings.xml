@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GhostHunter</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_home">Home</string>
+    <string name="title_map">Map</string>
+    <string name="title_inventory">Inventory</string>
+    <string name="title_settings">Settings</string>
+	<string name="inventory_fragment">This is the Inventory Fragment</string>
+    <string name="settings_fragment">This is the Settings Fragment</string>
+    <string name="dialog_close_proximity">Danger! A ghost is close.</string>
+    <string name="ignore">Ignore</string>
+    <string name="kill_ghost">Kill Ghost</string>
+    <string name="dialog_marker_click">A ghost! What will you do?</string>
+    <string name="nothing">Nothing</string>
+    <string name="dialog_buy_item">Buy item?</string>
+    <string name="buy">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="dialog_friendly_ghost">A friendly ghost! What will you do?</string>
+    <string name="befriend">Befriend</string>
+</resources>
